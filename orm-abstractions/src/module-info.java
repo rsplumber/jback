@@ -1,0 +1,2 @@
+module orm.abstractions {
+}
