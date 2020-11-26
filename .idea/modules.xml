@@ -9,9 +9,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/jback.iml" filepath="$PROJECT_DIR$/.idea/jback.iml" />
       <module fileurl="file://$PROJECT_DIR$/logger/logger.iml" filepath="$PROJECT_DIR$/logger/logger.iml" />
       <module fileurl="file://$PROJECT_DIR$/logger-abstractions/logger-abstractions.iml" filepath="$PROJECT_DIR$/logger-abstractions/logger-abstractions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvc/mvc.iml" filepath="$PROJECT_DIR$/mvc/mvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/orm/orm.iml" filepath="$PROJECT_DIR$/orm/orm.iml" />
       <module fileurl="file://$PROJECT_DIR$/orm-abstractions/orm-abstractions.iml" filepath="$PROJECT_DIR$/orm-abstractions/orm-abstractions.iml" />
-      <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
       <module fileurl="file://$PROJECT_DIR$/webserver/webserver.iml" filepath="$PROJECT_DIR$/webserver/webserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/webserver-abstractions/webserver-abstractions.iml" filepath="$PROJECT_DIR$/webserver-abstractions/webserver-abstractions.iml" />
     </modules>
